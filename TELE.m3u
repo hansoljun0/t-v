@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0,ARPARTV
-http://190.121.42.18:8000/play/a01h
-#EXTINF:-1 tvg-id="tvn.cl" tvg-logo="https://i.imgur.com/kXTUb7A.png" group-title="Chile", TVN CHILE | HD | Santiago
+#EXTINF:-1 tvg-id="tvn.cl" tvg-logo="https://i.imgur.com/kXTUb7A.png", TVN CHILE
 http://190.121.42.18:8000/play/a008
 #EXTINF:0,MEGA HD
 http://190.121.42.18:8000/play/a012
