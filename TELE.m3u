@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tvn.cl" tvg-logo="https://i.imgur.com/kXTUb7A.png", TVN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kXTUb7A.png", TVN HD
 http://190.121.42.18:8000/play/a008
 #EXTINF:0,MEGA HD
 http://190.121.42.18:8000/play/a012
