@@ -28,7 +28,7 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-name="TVN 3" tvg-logo="https://i.imgur.com/84lWqRi.png" tvg-id="TVN3.cl",TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:-1 tvg-name="Mega Chile" tvg-logo="https://imgur.com/a/AogzyqW.jpg" tvg-id="gatotv.com",Mega Chile
+#EXTINF:-1 tvg-name="Mega Chile" tvg-logo="https://imgur.com/a/AogzyqW.jpg" tvg-id="mega.cl",Mega Chile
 http://190.121.42.18:8000/play/a012
 #EXTINF:-1 tvg-name="Mega 2" tvg-logo="https://imgur.com/a/DHfZkB2.jpg" tvg-id="megago.cl",Mega 2
 http://190.121.42.18:8000/play/a00c
