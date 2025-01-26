@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/mi.tv_cl.xml, https://xmltv.tvkaista.net/guides/mi.tv_mx.xml, https://xmltv.tvkaista.net/guides/mi.tv_ar.xml, https://xmltv.tvkaista.net/guides/mi.tv_co.xml, https://xmltv.tvkaista.net/guides/mi.tv_br.xml"
+#EXTM3U x-tvg-url="https://xmltv.tvkaista.net/guides/mi.tv_cl.xml, https://xmltv.tvkaista.net/guides/tv.movistar.com.pe.xml, https://xmltv.tvkaista.net/guides/mi.tv_mx.xml, https://xmltv.tvkaista.net/guides/mi.tv_ar.xml, https://xmltv.tvkaista.net/guides/mi.tv_co.xml, https://xmltv.tvkaista.net/guides/mi.tv_br.xml"
 #EXTINF:-1 tvg-name="TVN" tvg-logo="https://i.imgur.com/WoN1dai.png" tvg-id="TVN.cl" group-title="Chile",TVN
 http://190.121.42.18:8000/play/a008
 #EXTINF:0,MEGA HD
