@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,TVN CHILE
+#EXTINF:0, tvg-name="TVN Ⓖ" tvg-logo="https://i.imgur.com/WoN1dai.png" tvg-id="TVN.cl" group-title="Chile",TVN Ⓖ
 http://190.121.42.18:8000/play/a008
 #EXTINF:0,MEGA HD
 http://190.121.42.18:8000/play/a012
