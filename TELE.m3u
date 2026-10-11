@@ -1,1 +1,223 @@
-http://170.79.235.135:8002/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 ,A&E
+http://38.199.241.97:8000/play/a004/index.m3u8
+#EXTINF:-1 ,ADULT SWING
+http://38.199.241.97:8000/play/a034/index.m3u8
+#EXTINF:-1 ,ANIMALPLANET
+http://38.199.241.97:8000/play/a009/index.m3u8
+#EXTINF:-1 ,AXN
+http://38.199.241.97:8000/play/a00a/index.m3u8
+#EXTINF:-1 ,AZ CINEMA
+http://38.199.241.97:8000/play/a02t/index.m3u8
+#EXTINF:-1 ,AZ CLICK
+http://38.199.241.97:8000/play/a02q/index.m3u8
+#EXTINF:-1 ,AZ CORAZON
+http://38.199.241.97:8000/play/a02r/index.m3u8
+#EXTINF:-1 ,AZ DEPORTES
+http://38.199.241.97:8000/play/a033/index.m3u8
+#EXTINF:-1 ,AZ INTERNACIONAL
+http://38.199.241.97:8000/play/a02k/index.m3u8
+#EXTINF:-1 ,BABY TV
+http://38.199.241.97:8000/play/a02d/index.m3u8
+#EXTINF:-1 ,BANDA MAX
+http://38.199.241.97:8000/play/a02f/index.m3u8
+#EXTINF:-1 ,BITME
+http://38.199.241.97:8000/play/a032/index.m3u8
+#EXTINF:-1 ,CANAL13
+http://38.199.241.97:8000/play/a00c/index.m3u8
+#EXTINF:-1 ,CANAL6
+http://38.199.241.97:8000/play/a00d/index.m3u8
+#EXTINF:-1 ,CANALDEESTRELLAS
+http://38.199.241.97:8000/play/a00e/index.m3u8
+#EXTINF:-1 ,CANALES DE LEG
+http://38.199.241.97:8000/play/a03g/index.m3u8
+#EXTINF:-1 ,CANALES DE LEG MUSIC
+http://38.199.241.97:8000/play/a03l/index.m3u8
+#EXTINF:-1 ,CANALES DISNEY
+http://38.199.241.97:8000/play/a03j/index.m3u8
+#EXTINF:-1 ,CANALES ESPN DISNEY
+http://38.199.241.97:8000/play/a03k/index.m3u8
+#EXTINF:-1 ,CANALLUZ
+http://38.199.241.97:8000/play/a007/index.m3u8
+#EXTINF:-1 ,CANALTRO
+http://38.199.241.97:8000/play/a00f/index.m3u8
+#EXTINF:-1 ,CANALUNO
+http://38.199.241.97:8000/play/a00g/index.m3u8
+#EXTINF:-1 ,CAPITAL
+http://38.199.241.97:8000/play/a00h/index.m3u8
+#EXTINF:-1 ,CARACOL
+http://38.199.241.97:8000/play/a00i/index.m3u8
+#EXTINF:-1 ,CARTOONETWORK
+http://38.199.241.97:8000/play/a037/index.m3u8
+#EXTINF:-1 ,CARTOONITO
+http://38.199.241.97:8000/play/a036/index.m3u8
+#EXTINF:-1 ,CINE CANAL
+http://38.199.241.97:8000/play/a02v/index.m3u8
+#EXTINF:-1 ,CITYTV
+http://38.199.241.97:8000/play/a00k/index.m3u8
+#EXTINF:-1 ,CNN
+http://38.199.241.97:8000/play/a02b/index.m3u8
+#EXTINF:-1 ,CNN INTERNACIONAL
+http://38.199.241.97:8000/play/a02l/index.m3u8
+#EXTINF:-1 ,CONGRESO
+http://38.199.241.97:8000/play/a00l/index.m3u8
+#EXTINF:-1 ,CRISTOVISION
+http://38.199.241.97:8000/play/a006/index.m3u8
+#EXTINF:-1 ,DE PELICULA OR
+http://38.199.241.97:8000/play/a02s/index.m3u8
+#EXTINF:-1 ,DEPORTES 2
+http://38.199.241.97:8000/play/a03m/index.m3u8
+#EXTINF:-1 ,DISCOVERY
+http://38.199.241.97:8000/play/a00n/index.m3u8
+#EXTINF:-1 ,DISCOVERY 1
+http://38.199.241.97:8000/play/a03n/index.m3u8
+#EXTINF:-1 ,DISCOVERY KIDS
+http://38.199.241.97:8000/play/a00o/index.m3u8
+#EXTINF:-1 ,DISNEY CHANNEL
+http://38.199.241.97:8000/play/a02m/index.m3u8
+#EXTINF:-1 ,DISNEY JR
+http://38.199.241.97:8000/play/a031/index.m3u8
+#EXTINF:-1 ,DISTRITO COMEDIA
+http://38.199.241.97:8000/play/a02n/index.m3u8
+#EXTINF:-1 ,DW
+http://38.199.241.97:8000/play/a00r/index.m3u8
+#EXTINF:-1 ,EL MUNDO DEL CAMPO
+http://38.199.241.97:8000/play/a02j/index.m3u8
+#EXTINF:-1 ,ENLACE
+http://38.199.241.97:8000/play/a00s/index.m3u8
+#EXTINF:-1 ,ENLACEJUVENIL
+http://38.199.241.97:8000/play/a00t/index.m3u8
+#EXTINF:-1 ,ENTRETEIMENT
+http://38.199.241.97:8000/play/a003/index.m3u8
+#EXTINF:-1 ,ESPN 1
+http://38.199.241.97:8000/play/a038/index.m3u8
+#EXTINF:-1 ,ESPN 2
+http://38.199.241.97:8000/play/a039/index.m3u8
+#EXTINF:-1 ,ESPN 3
+http://38.199.241.97:8000/play/a03a/index.m3u8
+#EXTINF:-1 ,ESPN 4
+http://38.199.241.97:8000/play/a03b/index.m3u8
+#EXTINF:-1 ,ESPN 5
+http://38.199.241.97:8000/play/a03c/index.m3u8
+#EXTINF:-1 ,ESPN 6
+http://38.199.241.97:8000/play/a03d/index.m3u8
+#EXTINF:-1 ,ESPN 7
+http://38.199.241.97:8000/play/a03e/index.m3u8
+#EXTINF:-1 ,EWTN
+http://38.199.241.97:8000/play/a010/index.m3u8
+#EXTINF:-1 ,FAMILIAR
+http://38.199.241.97:8000/play/a011/index.m3u8
+#EXTINF:-1 ,FOOD
+http://38.199.241.97:8000/play/a012/index.m3u8
+#EXTINF:-1 ,FX
+http://38.199.241.97:8000/play/a02w/index.m3u8
+#EXTINF:-1 ,GOLDEN
+http://38.199.241.97:8000/play/a013/index.m3u8
+#EXTINF:-1 ,GOLDENEDGE
+http://38.199.241.97:8000/play/a014/index.m3u8
+#EXTINF:-1 ,H&H
+http://38.199.241.97:8000/play/a02o/index.m3u8
+#EXTINF:-1 ,HGTV
+http://38.199.241.97:8000/play/a016/index.m3u8
+#EXTINF:-1 ,HISPANO
+http://38.199.241.97:8000/play/a017/index.m3u8
+#EXTINF:-1 ,HISTORY
+http://38.199.241.97:8000/play/a018/index.m3u8
+#EXTINF:-1 ,HISTORY2
+http://38.199.241.97:8000/play/a019/index.m3u8
+#EXTINF:-1 ,HITS
+http://38.199.241.97:8000/play/a01a/index.m3u8
+#EXTINF:-1 ,HOMEANDHEALTH
+http://38.199.241.97:8000/play/a01b/index.m3u8
+#EXTINF:-1 ,HTV
+http://38.199.241.97:8000/play/a02g/index.m3u8
+#EXTINF:-1 ,ID
+http://38.199.241.97:8000/play/a01c/index.m3u8
+#EXTINF:-1 ,INFANTIL
+http://38.199.241.97:8000/play/a01d/index.m3u8
+#EXTINF:-1 ,INSTITUCIONAL
+http://38.199.241.97:8000/play/a01e/index.m3u8
+#EXTINF:-1 ,LAKALLE
+http://38.199.241.97:8000/play/a01f/index.m3u8
+#EXTINF:-1 ,LAS ESTRELLAS
+http://38.199.241.97:8000/play/a02p/index.m3u8
+#EXTINF:-1 ,LIFETIME
+http://38.199.241.97:8000/play/a001/index.m3u8
+#EXTINF:-1 ,NATGEO
+http://38.199.241.97:8000/play/a01g/index.m3u8
+#EXTINF:-1 ,NTN24
+http://38.199.241.97:8000/play/a01h/index.m3u8
+#EXTINF:-1 ,NUESTRATELE
+http://38.199.241.97:8000/play/a01i/index.m3u8
+#EXTINF:-1 ,POPULAR
+http://38.199.241.97:8000/play/a01k/index.m3u8
+#EXTINF:-1 ,PREMIUM
+http://38.199.241.97:8000/play/a01l/index.m3u8
+#EXTINF:-1 ,RCN
+http://38.199.241.97:8000/play/a01m/index.m3u8
+#EXTINF:-1 ,RCNNOVELAS
+http://38.199.241.97:8000/play/rcnnovelas/index.m3u8
+#EXTINF:-1 ,REGGAETON
+http://38.199.241.97:8000/play/reggaeton/index.m3u8
+#EXTINF:-1 ,SALSA
+http://38.199.241.97:8000/play/salsa/index.m3u8
+#EXTINF:-1 ,SCI
+http://38.199.241.97:8000/play/a01n/index.m3u8
+#EXTINF:-1 ,SENALCOLOMBIIA
+http://38.199.241.97:8000/play/a01o/index.m3u8
+#EXTINF:-1 ,SONY
+http://38.199.241.97:8000/play/a01p/index.m3u8
+#EXTINF:-1 ,SONYMOVIES
+http://38.199.241.97:8000/play/a002/index.m3u8
+#EXTINF:-1 ,SPACE
+http://38.199.241.97:8000/play/a02z/index.m3u8
+#EXTINF:-1 ,STAR CHANNEL
+http://38.199.241.97:8000/play/a02u/index.m3u8
+#EXTINF:-1 ,STUNIVERSAL
+http://38.199.241.97:8000/play/a01r/index.m3u8
+#EXTINF:-1 ,SURAM
+http://38.199.241.97:8000/play/a01s/index.m3u8
+#EXTINF:-1 ,TCM
+http://38.199.241.97:8000/play/a030/index.m3u8
+#EXTINF:-1 ,TELEANTIOQUIA
+http://38.199.241.97:8000/play/a01t/index.m3u8
+#EXTINF:-1 ,TELECAFE
+http://38.199.241.97:8000/play/a01u/index.m3u8
+#EXTINF:-1 ,TELEHIT LATINO
+http://38.199.241.97:8000/play/a02h/index.m3u8
+#EXTINF:-1 ,TELEHIT MUSICA
+http://38.199.241.97:8000/play/a02i/index.m3u8
+#EXTINF:-1 ,TELEISLAS
+http://38.199.241.97:8000/play/a01v/index.m3u8
+#EXTINF:-1 ,TELEMEDELLIN
+http://38.199.241.97:8000/play/a01w/index.m3u8
+#EXTINF:-1 ,TELEMUNDO
+http://38.199.241.97:8000/play/a01x/index.m3u8
+#EXTINF:-1 ,TELEPASIFICO
+http://38.199.241.97:8000/play/a01y/index.m3u8
+#EXTINF:-1 ,TELEVID
+http://38.199.241.97:8000/play/a01z/index.m3u8
+#EXTINF:-1 ,TLC
+http://38.199.241.97:8000/play/a020/index.m3u8
+#EXTINF:-1 ,TLNOVELAS
+http://38.199.241.97:8000/play/a021/index.m3u8
+#EXTINF:-1 ,TNT
+http://38.199.241.97:8000/play/a02y/index.m3u8
+#EXTINF:-1 ,TNT NOVELAS
+http://38.199.241.97:8000/play/a02a/index.m3u8
+#EXTINF:-1 ,TNT SERIES
+http://38.199.241.97:8000/play/a029/index.m3u8
+#EXTINF:-1 ,TOONCAST
+http://38.199.241.97:8000/play/a035/index.m3u8
+#EXTINF:-1 ,TURBO
+http://38.199.241.97:8000/play/a022/index.m3u8
+#EXTINF:-1 ,UNIVERSAL
+http://38.199.241.97:8000/play/a023/index.m3u8
+#EXTINF:-1 ,UNIVISION
+http://38.199.241.97:8000/play/a024/index.m3u8
+#EXTINF:-1 ,USA
+http://38.199.241.97:8000/play/a025/index.m3u8
+#EXTINF:-1 ,WINSPORT
+http://38.199.241.97:8000/play/a026/index.m3u8
+#EXTINF:-1 ,ZOOM
+http://38.199.241.97:8000/play/a027/index.m3u8
